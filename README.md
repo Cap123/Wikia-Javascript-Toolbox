@@ -11,6 +11,5 @@ MultiPM
 
 Add
 <code>
-importScriptURI('http://');
+importScriptURI('https://raw.github.com/Cap123/Wikia-Javascript-Toolbox/master/MultiPMs.js');
 </code>
-Please wait do not embed this code!
