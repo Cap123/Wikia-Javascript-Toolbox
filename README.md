@@ -20,6 +20,6 @@ adminPanel
 
 Add
 <code>
-importScriptURI('https://raw.github.com/Cap123/Wikia-Javascript-Toolbox/master/AdminPanel.js');
+importScriptURI('https://raw.github.com/Cap123/Wikia-Javascript-Toolbox/master/adminPanel.js');
 </code>
 To your common.js file.
